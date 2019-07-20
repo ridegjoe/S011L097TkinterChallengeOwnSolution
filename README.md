@@ -1,5 +1,6 @@
 # S011L097TkinterChallengeOwnSolution
-This challenge is about making a simple GUI in Python with tkinter. This is an exercise code from my learning process, related to Tim Buchalka's Python Complete Developer Masterclass
+# This challenge is about making a simple GUI in Python with tkinter. 
+This is an exercise code from my learning process, related to Tim Buchalka's Python Complete Developer Masterclass
 
 TIM BUCHALKA'S COMPLETE PYTHON MASTERCLASS Created by Tim Buchalka, Jean-Paul Roberts,
 Tim Buchalka's Learn Programming Academy.
