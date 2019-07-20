@@ -1,5 +1,5 @@
 # S011L097TkinterChallengeOwnSolution
-# This challenge is about making a simple GUI in Python with tkinter. 
+# This challenge is about making a GUI of a simple calculator in Python with TkInter. 
 This is an exercise code from my learning process, related to Tim Buchalka's Python Complete Developer Masterclass
 
 TIM BUCHALKA'S COMPLETE PYTHON MASTERCLASS Created by Tim Buchalka, Jean-Paul Roberts,
