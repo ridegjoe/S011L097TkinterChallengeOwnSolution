@@ -21,13 +21,11 @@ https://www.udemy.com/user/jeanpaulroberts/
 There are two Python files:
 
 S011L097TkinterChallengeOwnSolutionAcer.py
-
-  This is my solution to the challenge.
-  Last modification: 2019.07.19. 20:00
+This is my solution to the challenge.
+Last modification: 2019.07.19. 20:00
  
 S011L097TkinterChallengeOwnSolutionLoopExperimentAcer.py
-
-  This is my file for figuring out the solutions, experimenting with smaller codes and sub steps of the whole program.
-  Last modification: 2019.07.19. 19:30
+This is my file for figuring out the solutions, experimenting with smaller codes and sub steps of the whole program.
+Last modification: 2019.07.19. 19:30
   
  
